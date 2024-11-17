@@ -51,10 +51,3 @@ The `maxBuyLimit` function sets a maximum purchase limit for each wallet address
 
 ---
 
-## Multisender Feature
-
-To utilize the multisender feature from your local desktop, you will need to use an Excel sheet formatted accordingly. You can find the necessary files here:
-
-- [Multisender Python Script](https://github.com/parzivalishan/newsuper/tree/main/tools)
-
-
